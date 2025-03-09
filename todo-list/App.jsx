@@ -4,7 +4,7 @@ import './App.css';
 import { DialogWrapper } from './DialogWrapper';
 import { NavBar } from './NavBar';
 import { TaskWrapper } from './TaskWrapper';
-import { UpComing } from './upComing';
+import { UpComing } from './UpComing';
 import  { FolderForm }  from './FolderForm';
 import { v4 as uuidv4 } from 'uuid';
 import CustomizedMenus from './IconMenu'
